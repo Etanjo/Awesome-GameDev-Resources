@@ -28,5 +28,6 @@
 </ul>
 <h1><i>PixiJS</i></h1>
 <ul>
-  
+  <li>PixiJS is a JavaSCript framework designed to make nice looking graphics for websites.</li>
+  <ki>It is really good at making particles in </ki>
 </ul>
