@@ -25,6 +25,8 @@
   <li>MonoGame is made to work on Windows, Linux, MacOS, iOS, Android, PS4/5, Xbox 1, and Switch</li>
   <li>MonoGame doesn't have a level editor, which is why it can't be considered an engine. Users need to find 3rd party ways to edit their levels or they need to build their own editors.</li>
   <li>It's a strong tool for building games that function on multiple different platforms, however it not having an editor makes it </li>
+  <li>Open Source</li>
+  <li><a href = "https://monogame.net/">https://monogame.net/</a></li>
 </ul>
 <h1><i>PixiJS</i></h1>
 <ul>
