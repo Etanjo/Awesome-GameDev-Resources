@@ -35,7 +35,7 @@
   <li>Pixi is not very easy to use from personal attempts at it.</li>
   <li>PixiJS is a very strong tool for making interesting graphics for a webpages, however it has a high skill floor. It also has a tendency to overuse computer resources.</li>
   <li>Open Source</li>
-  <li><a href="https://pixijs.com/"></a></li>
+  <li><a href="https://pixijs.com/">https://pixijs.com/</a></li>
 </ul>
 <h1><i>Phaser</i></h1>
 <ul>
